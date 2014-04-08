@@ -1,0 +1,150 @@
+2014-03-13 14:20:10,0500    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:20:10 ART 2014
+2014-03-13 14:20:10,06313   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:20:10,783733  [main] ERROR cl.bluex.datos.AccionesBDImpl - [conectar] Error SQL : ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region  not found
+
+2014-03-13 14:20:10,784734  [main] ERROR cl.bluex.datos.AccionesBDImpl - [Ljava.lang.StackTraceElement;@7dc05ffd
+2014-03-13 14:20:10,784734  [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error No controlado: null
+2014-03-13 14:20:10,785735  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:20:10,785735  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:20:10,786736  [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:20:10,787737  [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:20:10 ART 2014
+2014-03-13 14:22:18,0630    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:22:18 ART 2014
+2014-03-13 14:22:18,10138   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:23:21,8760    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:23:21 ART 2014
+2014-03-13 14:23:21,8859    [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:23:22,630754  [main] ERROR cl.bluex.datos.AccionesBDImpl - [conectar] Error SQL : ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region  not found
+
+2014-03-13 14:23:22,631755  [main] ERROR cl.bluex.datos.AccionesBDImpl - [Ljava.lang.StackTraceElement;@d5e92d7
+2014-03-13 14:23:22,631755  [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error No controlado: null
+2014-03-13 14:23:22,631755  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:23:22,632756  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:23:22,633757  [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:23:22,634758  [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:23:22 ART 2014
+2014-03-13 14:23:59,1890    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:23:59 ART 2014
+2014-03-13 14:23:59,20415   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:23:59,953764  [main] ERROR cl.bluex.datos.AccionesBDImpl - [conectar] Error SQL : ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region  not found
+
+2014-03-13 14:23:59,953764  [main] ERROR cl.bluex.datos.AccionesBDImpl - [Ljava.lang.StackTraceElement;@3bfa681c
+2014-03-13 14:23:59,954765  [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error No controlado: null
+2014-03-13 14:23:59,954765  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:23:59,955766  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:23:59,955766  [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:23:59,955766  [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:23:59 ART 2014
+2014-03-13 14:24:32,3270    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:24:32 ART 2014
+2014-03-13 14:24:32,33710   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:24:33,070743  [main] ERROR cl.bluex.datos.AccionesBDImpl - [conectar] Error SQL : ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region  not found
+
+2014-03-13 14:24:33,071744  [main] ERROR cl.bluex.datos.AccionesBDImpl - [Ljava.lang.StackTraceElement;@d5e92d7
+2014-03-13 14:24:33,072745  [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error No controlado: null
+2014-03-13 14:24:33,072745  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:24:33,073746  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:24:33,073746  [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:24:33,074747  [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:24:33 ART 2014
+2014-03-13 14:24:56,9000    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:24:56 ART 2014
+2014-03-13 14:24:56,94242   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:30:37,792340892 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:30:37,793340893 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 23:00:37 IST 2014
+2014-03-13 14:38:15,9160    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:38:15 ART 2014
+2014-03-13 14:38:15,93014   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:38:16,741825  [main] ERROR cl.bluex.datos.AccionesBDImpl - [conectar] Error SQL : ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region  not found
+
+2014-03-13 14:38:16,742826  [main] ERROR cl.bluex.datos.AccionesBDImpl - [Ljava.lang.StackTraceElement;@7f92c8d9
+2014-03-13 14:38:16,742826  [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error No controlado: null
+2014-03-13 14:38:16,743827  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:38:16,743827  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:38:16,745829  [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:38:16,745829  [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:38:16 ART 2014
+2014-03-13 14:38:55,8500    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:38:55 ART 2014
+2014-03-13 14:38:55,86313   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:38:56,616766  [main] ERROR cl.bluex.datos.AccionesBDImpl - [conectar] Error SQL : ORA-00604: error occurred at recursive SQL level 1
+ORA-01882: timezone region  not found
+
+2014-03-13 14:38:56,617767  [main] ERROR cl.bluex.datos.AccionesBDImpl - [Ljava.lang.StackTraceElement;@7f92c8d9
+2014-03-13 14:38:56,617767  [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error No controlado: null
+2014-03-13 14:38:56,618768  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:38:56,618768  [main] ERROR cl.bluex.datos.AccionesBDImpl - Error No controlado: null
+2014-03-13 14:38:56,619769  [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:38:56,619769  [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:38:56 ART 2014
+2014-03-13 13:40:50,7140    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:40:50 CLT 2014
+2014-03-13 13:40:50,72511   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:40:52,5351821 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 13:40:52,5361822 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:40:52 CLT 2014
+2014-03-13 13:41:45,9691    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:41:45 CLT 2014
+2014-03-13 13:41:45,98012   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:41:47,0451077 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 13:41:47,0451077 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:41:47 CLT 2014
+2014-03-13 13:42:24,1540    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:42:24 CLT 2014
+2014-03-13 13:42:24,16915   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:42:25,2501096 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 13:42:25,2511097 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:42:25 CLT 2014
+2014-03-13 13:42:49,0090    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:42:49 CLT 2014
+2014-03-13 13:42:49,02415   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:42:50,2791270 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Fallo al convertir a representación interna
+2014-03-13 13:42:50,2911282 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 13:42:50,2921283 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:42:50 CLT 2014
+2014-03-13 13:43:14,9440    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:43:14 CLT 2014
+2014-03-13 13:43:14,97935   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:49:13,8501    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:49:13 CLT 2014
+2014-03-13 13:49:13,86516   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:49:15,2331384 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 13:49:15,2331384 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:49:15 CLT 2014
+2014-03-13 13:50:49,4100    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:50:49 CLT 2014
+2014-03-13 13:50:49,42313   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:50:50,7231313 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Fallo al convertir a representación interna
+2014-03-13 13:50:50,7381328 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 13:50:50,7391329 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:50:50 CLT 2014
+2014-03-13 13:51:39,5240    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:51:39 CLT 2014
+2014-03-13 13:51:39,53713   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:51:40,7811257 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Fallo al convertir a representación interna
+2014-03-13 13:51:40,7951271 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 13:51:40,7961272 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:51:40 CLT 2014
+2014-03-13 13:52:21,4570    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:52:21 CLT 2014
+2014-03-13 13:52:21,47013   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:52:22,5381081 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 13:52:22,5391082 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:52:22 CLT 2014
+2014-03-13 13:58:16,3600    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 13:58:16 CLT 2014
+2014-03-13 13:58:16,37313   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 13:58:17,4851125 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Falta el parámetro IN o OUT en el índice:: 4
+2014-03-13 13:58:17,5931233 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 13:58:17,5941234 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 13:58:17 CLT 2014
+2014-03-13 14:00:00,9280    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:00:00 CLT 2014
+2014-03-13 14:00:00,93911   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:00:01,9861058 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Índice de columna no válido
+2014-03-13 14:00:01,9991071 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 14:00:02,0001072 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:00:01 CLT 2014
+2014-03-13 14:02:04,8050    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:02:04 CLT 2014
+2014-03-13 14:02:04,81813   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:02:05,8511046 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Índice de columna no válido
+2014-03-13 14:02:05,8651060 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 14:02:05,8661061 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:02:05 CLT 2014
+2014-03-13 14:02:51,2920    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:02:51 CLT 2014
+2014-03-13 14:02:51,30513   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:02:52,4531161 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Falta el parámetro IN o OUT en el índice:: 3
+2014-03-13 14:02:52,4691177 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 14:02:52,4701178 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:02:52 CLT 2014
+2014-03-13 14:04:55,9010    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:04:55 CLT 2014
+2014-03-13 14:04:55,91514   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:04:56,9781077 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:04:56,9791078 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:04:56 CLT 2014
+2014-03-13 14:05:18,3170    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:05:18 CLT 2014
+2014-03-13 14:05:18,32912   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:05:19,4271110 [main] ERROR cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Error SQL: Fallo al convertir a representación interna
+2014-03-13 14:05:19,4411124 [main] INFO  cl.bluex.negocio.InicioCubicacion - Error en la ejecucion del PL.
+2014-03-13 14:05:19,4411124 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:05:19 CLT 2014
+2014-03-13 14:06:02,2430    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:06:02 CLT 2014
+2014-03-13 14:06:02,25613   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:06:03,3651122 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:06:03,3661123 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:06:03 CLT 2014
+2014-03-13 14:06:44,2160    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:06:44 CLT 2014
+2014-03-13 14:06:44,22913   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:06:45,3801164 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta PL :0
+2014-03-13 14:06:45,3811165 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:06:45 CLT 2014
+2014-03-13 14:12:11,8450    [main] INFO  cl.bluex.inicio.Principal - Iniciando proceso :Thu Mar 13 14:12:11 CLT 2014
+2014-03-13 14:12:11,86015   [main] INFO  cl.bluex.datos.AccionesBDImpl - [procesaCubicacion] Ejecutando PL.
+2014-03-13 14:12:13,0091164 [main] INFO  cl.bluex.negocio.InicioCubicacion - Respuesta ejecución PL :OK
+2014-03-13 14:12:13,0091164 [main] INFO  cl.bluex.inicio.Principal - Proceso terminado :Thu Mar 13 14:12:13 CLT 2014

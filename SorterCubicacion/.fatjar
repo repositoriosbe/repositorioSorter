@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Mar 12 15:53:07 ART 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SorterCubicacion_fat.jar
+manifest.mergeall=true
+manifest.mainclass=cl.bluex.inicio.Principal
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
